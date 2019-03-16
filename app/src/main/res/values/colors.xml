@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FDBA01</color>
+    <color name="colorPrimaryDark">#F99D03</color>
+    <color name="colorAccent">#FDBA01</color>
+    <color name="todoTitle">#000000</color>
+</resources>
